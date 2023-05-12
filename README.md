@@ -8,10 +8,10 @@ This is my personal web portfolio created with HTML, CSS, Bootstrap and JavaScri
 
 * [LinkedIn](https://www.linkedin.com/in/fernandariverarico/)
 
-## Ver ejemplo en vivo
-- [GitHub Pages]()
+## Live page
+- [GitHub Pages](https://ferrriver.github.io/personal-portfolio/)
 
-## Instalation
+## Installation
 This project does not need installation. Just click on the .html
 
 ## Contact me
