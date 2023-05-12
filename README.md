@@ -9,7 +9,7 @@ This is my personal web portfolio created with HTML, CSS, Bootstrap and JavaScri
 * [LinkedIn](https://www.linkedin.com/in/fernandariverarico/)
 
 ## Live page
-- [GitHub Pages](https://ferrriver.github.io/personal-portfolio/)
+https://ferrriver.github.io/personal-portfolio/
 
 ## Installation
 This project does not need installation. Just click on the .html
