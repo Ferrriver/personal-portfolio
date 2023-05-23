@@ -105,9 +105,9 @@ h1 span {
     box-shadow: none;
 }
 
-.main img {
-    min-height: 300px;
-    width: 350px;
+.profile-picture{
+    min-height: 250px;
+    width: 300px;
     border-radius: 0.5rem;
     margin: 0 auto;
 }
@@ -397,7 +397,7 @@ h1 span {
     .menu {
         flex-direction: column;
         justify-content: center;
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         height: 100vh;
@@ -445,8 +445,8 @@ h1 span {
         display: none;
     }
 
-    .main img {
-        width: 250px;
+    .profile-picture {
+        width: 200px;
     }
 
     .info-content {
